@@ -17,11 +17,11 @@ To design and develop a PCB board for any specific application.
 ```
 
 ```
-### DRILL
+### Drill
 ```
 
 ```
-### CUTOUT
+### Cutout
 ```
 
 ```
