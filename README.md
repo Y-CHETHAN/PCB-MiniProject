@@ -1,9 +1,9 @@
 # Design and Develop a PCB Board
 
-## Aim:
+## AIM
 To design and develop a PCB board for any specific application.
 
-## Design Steps:
+## DESIGN STEPS
 1. Design the schematic using Eagle.
 2. Create the PCB layout in Eagle, ensuring proper component placement and trace routing.
 3. Generate Gerber files in Eagle for manufacturing.
@@ -12,27 +12,27 @@ To design and develop a PCB board for any specific application.
 6. Load the GCODE into the machine's control software.
 7. Run the machine to mill traces, drill holes, and cut out the PCB.
 
-## G-Code:
+## G-CODE
 ### Engraving
 ```
 
 ```
-### Drill
+### DRILL
 ```
 
 ```
-### Cutout
+### CUTOUT
 ```
 
 ```
 
-## Schematic Layout:
+## SCHEMATIC LAYOUT
 
-## PCB Layout:
+## PCB LAYOUT
 
-## CopperCAM Output:
+## COPPERCAM OUTPUT
 
-## Manufactured PCB:
+## MANUFACTURED PCB:
 
-## Result:
+## RESULT
 Thus, a PCB board is designed and developed for a specific application.
