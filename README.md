@@ -281,7 +281,7 @@ M02
 ## COPPERCAM OUTPUT
 ![COPPERCAM](https://github.com/Y-CHETHAN/PCB-MiniProject/assets/75234991/022ccb70-78bc-45e8-8b0f-e5ebcffb3be6)
 
-## MANUFACTURED PCB:
+## MANUFACTURED PCB
 ![image](https://github.com/Y-CHETHAN/PCB-MiniProject/assets/75234991/6cc1514c-988c-4724-bb6b-d5089d02695d)
 
 ## RESULT
